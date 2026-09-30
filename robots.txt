@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://recoded-13.github.io/sitemap-index.xml
